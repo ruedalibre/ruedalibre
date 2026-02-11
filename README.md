@@ -1,21 +1,122 @@
-# Hi, I'm Andrés Ruedalibre!
-👨‍💻 Frontend Developer<br>🤓 Languages: Javascript, Typescript.<br>💻 Web development, automations, data modelling, low code apps.<br>💬 English proficiency: high level (B2)<br>📫 How to reach me: andresruedalibre@gmail.com<br>⚡ Fun fact: I practice meditation
+# 👋 Hi, I'm Andrés Pérez Díaz
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+**Frontend Developer (Mid-Level) | Software Builder | Product-Focused**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ruedalibre&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ruedalibre&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruedalibre&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+I’m a Frontend Developer with 3.5+ years of experience building scalable digital products, currently focused on SaaS platforms, content management systems, and data-driven dashboards.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ruedalibre&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-perez-develop) 
+My background combines software development with strategic thinking from advertising and anthropology — allowing me to design technology that is both functional and meaningful for users.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ruedalibre&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Current Focus
+
+* Building a **Content Management SaaS** for creators
+* Designing fullstack architectures with Supabase
+* Developing scalable frontend systems in React + TypeScript
+* Creating data visualization dashboards for product insights
+
+---
+
+## 🧠 Tech Stack
+
+**Frontend**
+
+* React
+* TypeScript
+* JavaScript (ES6+)
+* SCSS / Sass
+* Responsive Layout Systems
+
+**Backend / BaaS**
+
+* Supabase (PostgreSQL, Edge Functions)
+* SQL (Views, Aggregations, Analytics)
+* Dataverse
+* MongoDB
+
+**Cloud & DevOps**
+
+* Azure DevOps
+* Git / GitHub
+* CI basics
+* REST API design
+
+**Low Code & Automation**
+
+* SharePoint Framework
+* Power Automate
+* Power Platform integrations
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=default"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact"
+/>
+
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+### 🗂️ Content Manager SaaS (In Progress)
+
+A platform designed for digital creators to:
+
+* Organize social media content
+* Track publishing history
+* Analyze platform performance
+* Manage reusable assets
+
+**Tech:**
+React · TypeScript · Supabase · Edge Functions · SQL Views
+
+Repos:
+
+* 🔗 Frontend: [https://github.com/ruedalibre/content-manager-frontend](https://github.com/ruedalibre/content-manager-frontend)
+* 🔗 Backend: [https://github.com/ruedalibre/content-manager-backend](https://github.com/ruedalibre/content-manager-backend)
+
+---
+
+## 🛠️ What I Bring
+
+* Product mindset — not just code delivery
+* UX-aware frontend architecture
+* Data modeling for analytics dashboards
+* Cross-disciplinary thinking (tech + social insight)
+* Experience in fintech environments
+
+---
+
+## 🌎 Languages
+
+* Spanish — Native
+* English — B2 Professional Working Proficiency
+
+---
+
+## 📫 Contact
+
+* LinkedIn: [https://linkedin.com/in/andres-perez-develop](https://linkedin.com/in/andres-perez-develop)
+* Email: andresruedalibre@gmail.com
+
+---
+
+## 📈 2026 Goals
+
+* Ship v1 of Content Manager SaaS
+* Contribute to open source
+* Strengthen backend & system design skills
+* Land a Mid-Level Frontend role in product companies
+
+---
+
+⭐ *Always building, always learning.*

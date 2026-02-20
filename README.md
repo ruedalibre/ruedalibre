@@ -54,11 +54,11 @@ My background combines software development with strategic thinking from adverti
 <p align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=default"
+src="https://github-readme-stats.vercel.app/api?username=ruedalibre&show_icons=true&theme=default"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruedalibre&layout=compact"
 />
 
 </p>

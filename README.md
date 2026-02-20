@@ -53,7 +53,7 @@ My background combines software development with strategic thinking from adverti
 
 <p align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=ruedalibre&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=ruedalibre&show_icons=true&theme=radical)](https://github.com/ruedalibre/github-readme-stats)
 
 
 </p>

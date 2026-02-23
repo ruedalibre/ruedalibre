@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrés Pérez Díaz (aka Ruedalibre)
+# 👋 Hi, I'm Andrés Pérez Díaz 
 
 **Frontend Developer (Mid-Level) | Software Builder | Product-Focused**
 

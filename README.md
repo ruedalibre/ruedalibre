@@ -1,4 +1,4 @@
-# Hi, I'm Andrés Pérez Díaz 
+# Hi there, I'm Andrés Pérez Díaz 
 
 **Frontend Developer (Mid-Level) | Software Builder | Product-Focused**
 

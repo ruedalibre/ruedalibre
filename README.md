@@ -58,7 +58,7 @@ Currently building an **AI-driven SaaS platform for content intelligence and ana
 
 <p align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=ruedalibre&show_icons=true&theme=radical)](https://github.com/ruedalibre/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=ruedalibre&show_icons=true&theme=radical&v=1)](https://github.com/ruedalibre/github-readme-stats)
 
 </p>
 

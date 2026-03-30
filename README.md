@@ -1,117 +1,129 @@
-# Hi, I'm Andrés Pérez Díaz 
+# Hi, I'm Andrés Pérez Díaz
 
-**Frontend Developer (Mid-Level) | Software Builder | Product-Focused**
+**Product Engineer | Frontend Development | AI-driven SaaS | User Research Background**
 
-I’m a Frontend Developer with 3.5+ years of experience building scalable digital products, currently focused on SaaS platforms, content management systems, and data-driven dashboards.
+I’m a product-oriented engineer with **3.5+ years of experience building production applications in fintech environments**, currently focused on **SaaS platforms, data-driven products, and modern frontend architectures**.
 
-My background combines software development with strategic thinking from advertising and anthropology — allowing me to design technology that is both functional and meaningful for users.
+My background combines **software development, user research, and behavioral analysis** (Advertising + Anthropology), allowing me to approach technology not only as code, but as a way to build meaningful and useful products.
 
----
-
-## 🚀 Current Focus
-
-* Building a **Content Management SaaS** for creators
-* Designing fullstack architectures with Supabase
-* Developing scalable frontend systems in React + TypeScript
-* Creating data visualization dashboards for product insights
+Currently building an **AI-driven SaaS platform for content intelligence and analytics**.
 
 ---
 
-## 🧠 Tech Stack
+# 🚀 Current Focus
 
-**Frontend**
+* Building an **AI-driven Content Intelligence SaaS**
+* Designing **data-driven product architectures**
+* Developing scalable frontend systems in **React + TypeScript**
+* Building **analytics dashboards and data pipelines**
+* Exploring **product engineering in AI-powered tools**
+
+---
+
+# 🧠 Tech Stack
+
+### Frontend
 
 * React
 * TypeScript
 * JavaScript (ES6+)
 * SCSS / Sass
-* Responsive Layout Systems
+* Responsive UI systems
 
-**Backend / BaaS**
+### Backend / Data
 
 * Supabase (PostgreSQL, Edge Functions)
-* SQL (Views, Aggregations, Analytics)
+* SQL (views, aggregations, analytics queries)
 * Dataverse
 * MongoDB
 
-**Cloud & DevOps**
+### Cloud & DevOps
 
-* Azure DevOps
 * Git / GitHub
+* Azure DevOps
 * CI basics
 * REST API design
 
-**Low Code & Automation**
+### Automation & Low-Code
 
-* SharePoint Framework
+* SharePoint Framework (SPFx)
 * Power Automate
-* Power Platform integrations
+* Microsoft Power Platform
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=ruedalibre&show_icons=true&theme=radical)](https://github.com/ruedalibre/github-readme-stats)
 
-
 </p>
 
 ---
 
-## 🧩 Featured Projects
+# 🧩 Featured Project
 
-### 🗂️ Content Manager SaaS (In Progress)
+## 🗂️ Content Intelligence SaaS (In Progress)
 
-A platform designed for digital creators to:
+An AI-driven platform designed to help teams and creators **analyze and optimize digital content performance**.
 
-* Organize social media content
-* Track publishing history
-* Analyze platform performance
-* Manage reusable assets
+The platform focuses on:
 
-**Tech:**
+* organizing content workflows
+* analyzing publishing performance
+* extracting insights from content data
+* supporting data-driven content strategies
+
+**Tech Stack**
+
 React · TypeScript · Supabase · Edge Functions · SQL Views
 
-Repos:
+Repositories:
 
-* 🔗 Frontend: [https://github.com/ruedalibre/content-manager-frontend](https://github.com/ruedalibre/content-manager-frontend)
-* 🔗 Backend: [https://github.com/ruedalibre/content-manager-backend](https://github.com/ruedalibre/content-manager-backend)
+* 🔗 Frontend  
+https://github.com/ruedalibre/content-manager-frontend
+
+* 🔗 Backend  
+https://github.com/ruedalibre/content-manager-backend
 
 ---
 
-## 🛠️ What I Bring
+# 🛠️ What I Bring
 
-* Product mindset — not just code delivery
-* UX-aware frontend architecture
+* Product mindset — building solutions, not just features
+* Frontend architecture for data-driven applications
+* UX-aware engineering
 * Data modeling for analytics dashboards
-* Cross-disciplinary thinking (tech + social insight)
-* Experience in fintech environments
+* Cross-disciplinary thinking (technology + human insight)
+* Experience delivering software in fintech environments
 
 ---
 
-## 🌎 Languages
+# 🌎 Languages
 
-* Spanish — Native
-* English — B2 Professional Working Proficiency
-
----
-
-## 📫 Contact
-
-* LinkedIn: [https://linkedin.com/in/andres-perez-develop](https://linkedin.com/in/andres-perez-develop)
-* Email: andresruedalibre@gmail.com
+Spanish — Native  
+English — Professional Working Proficiency (B2)
 
 ---
 
-## 📈 2026 Goals
+# 📫 Contact
 
-* Ship v1 of Content Manager SaaS
-* Contribute to open source
-* Strengthen backend & system design skills
-* Land a Mid-Level Frontend role in product companies
+LinkedIn  
+https://linkedin.com/in/andres-perez-develop
+
+Email  
+andresruedalibre@gmail.com
 
 ---
 
-⭐ *Always building, always learning.*
+# 📈 2026 Goals
+
+* Launch **v1 of my SaaS platform**
+* Contribute to open-source projects
+* Deepen backend and system design skills
+* Join a **product-driven engineering team**
+
+---
+
+⭐ Always building. Always learning.

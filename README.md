@@ -2,6 +2,8 @@
 
 **Product Engineer | Frontend Development | AI-driven SaaS | User Research Background**
 
+🚀 SaaS Project: https://content-intel.app
+
 I’m a product-oriented engineer with **3.5+ years of experience building production applications in fintech environments**, currently focused on **SaaS platforms, data-driven products, and modern frontend architectures**.
 
 My background combines **software development, user research, and behavioral analysis** (Advertising + Anthropology), allowing me to approach technology not only as code, but as a way to build meaningful and useful products.
@@ -68,6 +70,9 @@ Currently building an **AI-driven SaaS platform for content intelligence and ana
 
 An AI-driven platform designed to help teams and creators **analyze and optimize digital content performance**.
 
+🌐 Landing  
+https://content-intel.app
+
 The platform focuses on:
 
 * organizing content workflows
@@ -114,6 +119,8 @@ https://linkedin.com/in/andres-perez-develop
 
 Email  
 andresruedalibre@gmail.com
+
+🌐 SaaS: https://content-intel.app  
 
 ---
 

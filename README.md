@@ -54,12 +54,15 @@ Currently building an **AI-driven SaaS platform for content intelligence and ana
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ruedalibre&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ruedalibre&show_icons=true&theme=radical&hide_border=true" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruedalibre&layout=compact&theme=radical" />
+
+<img src="https://streak-stats.demolab.com?user=ruedalibre&theme=radical" />
 
 </p>
 

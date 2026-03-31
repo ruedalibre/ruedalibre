@@ -11,7 +11,7 @@ https://content-intel.app
 
 ## About Me
 
-I’m a product-oriented engineer with **3.5+ years of experience building production applications in fintech environments**.
+I’m a product-oriented engineer with **4+ years of experience building production applications in fintech environments**.
 
 My background combines **software development, advertising and anthropology**, which gives me a strong focus on **user behavior, product strategy and meaningful technology**.
 

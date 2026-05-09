@@ -1,114 +1,94 @@
 # Andrés Pérez Díaz
+**Product Engineer · AI-driven SaaS · React + TypeScript · Supabase**
 
-**Product Engineer | Frontend Development | AI-driven SaaS | User Research Background**
+Building products at the intersection of **technology, creative thinking and human insight**.
 
-Building data-driven products at the intersection of **technology, product thinking and user insight**.
-
-🌐 SaaS Project  
-Landing page: https://content-intel.app
-App: https://app.content-intel.app/
+🌐 **Live products:**
+- Landing: [content-intel.app](https://content-intel.app)
+- App: [app.content-intel.app](https://app.content-intel.app)
 
 ---
 
 ## About Me
 
-I’m a product-oriented engineer with **4+ years of experience building production applications in fintech environments**.
+I'm a product engineer with **4+ years of experience building production applications in fintech environments**. My background combines **software development, advertising and anthropology** — which means I think about users before I think about systems.
 
-My background combines **software development, advertising and anthropology**, which gives me a strong focus on **user behavior, product strategy and meaningful technology**.
+I came to technology through people, not the other way around. That order shapes how I build.
 
-Currently building an **AI-driven SaaS platform focused on content intelligence and analytics**.
+Currently shipping an **AI-driven Content Intelligence SaaS** — from product conception to deployed MVP with real early adopters.
 
 ---
 
-## Current Focus
+## What I'm Building
 
-• Building an AI-driven **Content Intelligence SaaS**  
-• Designing **data-driven architectures with Supabase**  
-• Developing scalable **React + TypeScript applications**  
-• Creating **analytics dashboards and product insights tools**
+### Content Intelligence App — Live MVP
+
+An AI-powered platform that helps content creators understand how their ideas evolve into scalable content systems.
+
+Most tools treat content as isolated posts and measure performance after the fact. This platform treats content as the output of underlying creative ideas — and analyzes the idea system itself.
+
+**Core loop:** Ideas → Content → Patterns → Insights → Strategy → New ideas
+
+**What's live:**
+- Idea library and content registry with full idea → content linking
+- AI-powered content briefs generated from the creator's own patterns (Claude API)
+- Creator Identity page — Content DNA analysis with standout insights and creative style tags
+- Deep creative report — narrative analysis of the creator's process, opportunities and direction
+- Analytics dashboard — publishing rhythm, platform distribution, growth timeline, heatmap
+- Bilingual EN/ES interface with AI responses in the user's preferred language
+- Admin panel with early access waitlist management and platform ecosystem analytics
+- DOCX export for briefs and reports with legal disclaimers
+- Onboarding flow with guided tour and creator profile setup
+- Invitation-only registration flow connected to early access waitlist
+
+**Stack:**
+React · TypeScript · Vite · SCSS · Supabase · PostgreSQL · Edge Functions (Deno) · Anthropic Claude API · Resend · react-i18next
+
+**Repositories:**
+- Frontend: [github.com/ruedalibre/content-manager-frontend](https://github.com/ruedalibre/content-manager-frontend)
+- Backend: [github.com/ruedalibre/content-manager-backend](https://github.com/ruedalibre/content-manager-backend)
 
 ---
 
 ## Tech Stack
 
-### Frontend
-React  
-TypeScript  
-JavaScript (ES6+)  
-SCSS / Responsive UI Systems  
+**Frontend**
+React · TypeScript · JavaScript ES6+ · SCSS · Vite · react-i18next · recharts
 
-### Backend & Data
-Supabase  
-PostgreSQL  
-SQL analytics queries  
-MongoDB  
-Dataverse  
+**Backend & Data**
+Supabase · PostgreSQL · Edge Functions (Deno/TypeScript) · SQL views & analytics queries · Row Level Security · REST APIs · MongoDB · Dataverse
 
-### Tools & DevOps
-Git / GitHub  
-Azure DevOps  
-REST APIs  
-CI basics  
+**AI & Integrations**
+Anthropic Claude API · Resend (transactional email) · Tally webhooks
+
+**Tools**
+Git / GitHub · Azure DevOps · Vercel · CI basics
 
 ---
 
-## Featured Project
+## How I Work
 
-### Content Intelligence SaaS (In Progress)
-
-AI-driven platform designed to help teams and creators **analyze and optimize digital content performance**.
-
-Key capabilities:
-
-• Content workflow organization  
-• Publishing performance analytics  
-• Data-driven content insights  
-• Reusable asset management
-
-Tech:
-
-React · TypeScript · Supabase · Edge Functions · SQL Views
-
-Repositories
-
-Frontend  
-https://github.com/ruedalibre/content-manager-frontend
-
-Backend  
-https://github.com/ruedalibre/content-manager-backend
+- **Product before code** — I define what needs to exist before I write a line
+- **UX-aware architecture** — frontend decisions are driven by user behavior, not just technical elegance
+- **Full-cycle ownership** — from schema design to deployed feature to user feedback
+- **Cross-disciplinary thinking** — anthropology background means I read users, not just metrics
+- **AI as leverage, not shortcut** — I use AI to fill gaps and accelerate, not to replace judgment
 
 ---
 
 ## GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ruedalibre&show_icons=true&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruedalibre&layout=compact&theme=radical" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ruedalibre&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruedalibre&layout=compact&theme=radical" />
 </p>
-
----
-
-## What I Bring
-
-• Product mindset — not just code delivery  
-• UX-aware frontend architecture  
-• Data modeling for analytics dashboards  
-• Cross-disciplinary thinking (tech + human insight)  
-• Experience building software in fintech environments
 
 ---
 
 ## Contact
 
-LinkedIn  
-https://linkedin.com/in/andres-perez-develop
-
-Email  
-andresruedalibre@gmail.com
+[LinkedIn](https://linkedin.com/in/andres-perez-develop) · andresruedalibre@gmail.com
 
 ---
 
-⭐ Always building. Always learning.
+*Building with intention. Shipping with care.*

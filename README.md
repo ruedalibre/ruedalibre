@@ -5,7 +5,8 @@
 Building data-driven products at the intersection of **technology, product thinking and user insight**.
 
 🌐 SaaS Project  
-https://content-intel.app
+Landing page: https://content-intel.app
+App: https://app.content-intel.app/
 
 ---
 

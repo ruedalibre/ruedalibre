@@ -4,8 +4,8 @@
 Building products at the intersection of **technology, creative thinking and human insight**.
 
 🌐 **Live products:**
-- Landing: [content-intel.app](https://content-intel.app)
-- App: [app.content-intel.app](https://app.content-intel.app)
+- Landing: [usecreadora.com](https://usecreadora.com)
+- App: [app.usecreadora.com](https://app.usecreadora.com)
 
 ---
 
@@ -15,17 +15,17 @@ I'm a product engineer with **4+ years of experience building production applica
 
 I came to technology through people, not the other way around. That order shapes how I build.
 
-Currently shipping an **AI-driven Content Intelligence SaaS** — from product conception to deployed MVP with real early adopters.
+Currently shipping **Creadora** — an AI-driven SaaS for content creators, live in production with 40+ active users.
 
 ---
 
 ## What I'm Building
 
-### Content Intelligence App — Live MVP
+### Creadora — Live in Production
 
 An AI-powered platform that helps content creators understand how their ideas evolve into scalable content systems.
 
-Most tools treat content as isolated posts and measure performance after the fact. This platform treats content as the output of underlying creative ideas — and analyzes the idea system itself.
+Most tools treat content as isolated posts and measure performance after the fact. Creadora treats content as the output of underlying creative ideas — and analyzes the idea system itself.
 
 **Core loop:** Ideas → Content → Patterns → Insights → Strategy → New ideas
 
@@ -40,6 +40,7 @@ Most tools treat content as isolated posts and measure performance after the fac
 - DOCX export for briefs and reports with legal disclaimers
 - Onboarding flow with guided tour and creator profile setup
 - Invitation-only registration flow connected to early access waitlist
+- Multi-tenant architecture with workspace-scoped data isolation (RLS + service role pattern)
 
 **Stack:**
 React · TypeScript · Vite · SCSS · Supabase · PostgreSQL · Edge Functions (Deno) · Anthropic Claude API · Resend · react-i18next
@@ -53,13 +54,13 @@ React · TypeScript · Vite · SCSS · Supabase · PostgreSQL · Edge Functions 
 ## Tech Stack
 
 **Frontend**
-React · TypeScript · JavaScript ES6+ · SCSS · Vite · react-i18next · recharts
+React · TypeScript · JavaScript ES6+ · SCSS · Vite · react-i18next · Recharts
 
 **Backend & Data**
 Supabase · PostgreSQL · Edge Functions (Deno/TypeScript) · SQL views & analytics queries · Row Level Security · REST APIs · MongoDB · Dataverse
 
 **AI & Integrations**
-Anthropic Claude API · Resend (transactional email) · Tally webhooks
+Anthropic Claude API · Resend (transactional email) · Tally webhooks · Stripe
 
 **Tools**
 Git / GitHub · Azure DevOps · Vercel · CI basics
